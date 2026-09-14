@@ -1,0 +1,24 @@
+# .gitignore
+
+## common ignore filename rule
+**/*.local*
+
+## jetbrains
+*.iml
+**/.idea/*
+!**/.idea/runConfigurations
+
+## directory
+**/.aws/**
+**/.git/**
+**/.ssh/**
+**/.vscode/**
+**/tmp/**
+**/node_modules/*
+**/vendor/*
+
+## file
+!.gitkeep
+*.log
+.DS_Store
+*.swp

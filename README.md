@@ -2,12 +2,12 @@
 
 ### Tech:
 
+![](https://img.shields.io/badge/-Golang-00ADD8.svg?logo=go&style=plastic)
 ![](https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=plastic)
 ![](https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&style=plastic)
 ![](https://img.shields.io/badge/-NativeScript-65ADF1.svg?logo=nativescript&style=plastic)
 ![](https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=plastic)
 ![](https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=plastic)
-![](https://img.shields.io/badge/-Golang-00ADD8.svg?logo=go&style=plastic)
 ![](https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=plastic)
 ![](https://img.shields.io/badge/-CSharp-239120.svg?logo=csharp&style=plastic)
 ![](https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=plastic)
