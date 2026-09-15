@@ -1,5 +1,9 @@
 <!-- icon by https://simpleicons.org/ -->
 
+### Link
+
+- [Gist](https://gist.github.com/AkitoYamashita)
+
 ### Tech:
 
 ![](https://img.shields.io/badge/-Golang-00ADD8.svg?logo=go&style=plastic)
